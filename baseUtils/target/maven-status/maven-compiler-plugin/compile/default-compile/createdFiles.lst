@@ -1,0 +1,9 @@
+com\mma\core\BaseTest.class
+com\mma\core\BaseFrontEndTest.class
+com\mma\utils\SQLUtils.class
+com\mma\core\BaseBackEndTest.class
+com\mma\utils\RestAssuredUtils.class
+com\mma\annotations\TestInfo.class
+com\mma\logger\TestSpecificLogger.class
+com\mma\utils\StringUtils.class
+com\mma\core\BaseMobileAppTest.class
